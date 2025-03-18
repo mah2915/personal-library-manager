@@ -78,4 +78,4 @@ elif menu == "Display Statistics":
 elif menu == "Exit":
     with st.popover("Exit"):
         st.markdown("Bye Bye 👋")
-st.balloons()
+    st.balloons()
